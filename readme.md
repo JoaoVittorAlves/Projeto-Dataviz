@@ -1,9 +1,9 @@
 # Projeto de Visualização de Dados
 
 ## Grupo
-Ian Rocha Bittencourt 
-João Vittor de Araujo Alves
-Rafael de Franca Silva
+- Ian Rocha Bittencourt 
+- João Vittor de Araujo Alves
+- Rafael de Franca Silva
 
 ## Objetivo
 Analisar e visualizar [tema ]
