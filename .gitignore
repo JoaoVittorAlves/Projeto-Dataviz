@@ -1,0 +1,33 @@
+# Ambiente virtual
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Arquivos do sistema (Windows/Mac)
+.DS_Store
+Thumbs.db
+
+# Dados (cuidado com arquivos grandes)
+data/raw/
+*.csv
+*.xlsx
+
+# Logs
+*.log
+
+# Outputs gerados
+outputs/
+
+# Cache de bibliotecas
+.cache/
