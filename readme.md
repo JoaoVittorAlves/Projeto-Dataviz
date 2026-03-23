@@ -12,5 +12,3 @@ Analisar e visualizar doença de Alzheimer
 - Python
 - Pandas
 - Matplotlib / Seaborn / Plotly
-
-## Como rodar
