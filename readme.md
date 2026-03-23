@@ -6,7 +6,7 @@
 - Rafael de Franca Silva
 
 ## Objetivo
-Analisar e visualizar [tema ]
+Analisar e visualizar doença de Alzheimer
 
 ## Tecnologias
 - Python
